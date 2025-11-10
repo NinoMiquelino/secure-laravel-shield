@@ -194,8 +194,8 @@ if ($requests > 1000) {
 
 Design Responsivo
 
-· Mobile-first - Otimizado para dispositivos móveis
-· Tailwind CSS - Design moderno e acessível
+· Mobile-first - Otimizado para dispositivos móveis<br>
+· Tailwind CSS - Design moderno e acessível<br>
 · Componentes intuitivos - Fácil navegação
 
 Funcionalidades Frontend

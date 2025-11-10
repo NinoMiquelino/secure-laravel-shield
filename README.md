@@ -220,10 +220,10 @@ php artisan test --filter=AuthTest
 
 📊 Métricas de Segurança
 
-Métrica Resultado
-Tokens revogados com sucesso 100%
-Tentativas de acesso bloqueadas 99%
-Falsos positivos < 1%
+Métrica Resultado<br>
+Tokens revogados com sucesso 100%<br>
+Tentativas de acesso bloqueadas 99%<br>
+Falsos positivos < 1%<br>
 Tempo de resposta < 200ms
 
 🚨 Resposta a Incidentes
